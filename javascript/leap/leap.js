@@ -12,3 +12,4 @@ if ( year % 4 ===0) {
 }
     
 }
+module.exports = Year;
