@@ -18,3 +18,6 @@ BeerSong.prototype.beer = function(input) {
         for( var i = beer.length -1; i>= 0; i--);
         
 }
+
+
+module.export = beerSong;
