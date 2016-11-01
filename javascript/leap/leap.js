@@ -1,4 +1,17 @@
-function (year) {
+/*var HelloWorld = function() {};
+
+HelloWorld.prototype.hello = function(input) {
+
+    var name = input || 'World';
+    return  'Hello, ' + name + '!';
+};
+
+module.exports = HelloWorld; */
+
+
+
+
+function (year) { 
     var leap = year;
     
 if ( year % 4 ===0) {
